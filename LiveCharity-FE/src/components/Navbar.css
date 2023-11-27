@@ -1,0 +1,36 @@
+.navbar_container {
+  display: flex;
+  align-items: center;
+  background-color: #FFFFFF;
+  height: 10vh;
+  justify-content: space-around;
+}
+.navbar_menu {
+  display: flex;
+  align-items: center;
+}
+
+.navbar_menu .navbar_menu-list {
+  flex-grow: 1;
+  display: flex !important;
+  align-items: center !important;
+  gap: 10px;
+  list-style: none;
+  font-weight: 700;
+  font-size: 18;
+}
+
+.navbar_topup {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.button_topup {
+  border: none;
+  border-radius: 5px;
+  background-color: #06f;
+  padding: 5px 10px 5px 10px;
+  color: white;
+  font-weight: 800;
+}

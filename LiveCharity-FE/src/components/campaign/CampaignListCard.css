@@ -1,0 +1,9 @@
+.Card:hover {
+    transform: scale(1.05); /* Scale the card on hover */
+    transition: transform 0.3s ease-in-out; /* Add a smooth transition effect */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a box shadow on hover */
+  }
+
+  .Card {
+    transition: transform 0.3s ease-in-out; /* Add a smooth transition effect */
+  }

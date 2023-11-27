@@ -1,0 +1,21 @@
+.menubar ul {
+    list-style-type: none;
+    padding: 0;
+    font-size: 20px;
+  }
+  
+  .menubar li {
+    margin-bottom: 20px;
+  }
+  
+  .sub-menu li {
+    padding-left: 15px;
+  }
+  
+  .sub-menu li span {
+    margin-left: 5px;
+  }
+  
+  .sub-menu input {
+    margin-right: 5px;
+  }

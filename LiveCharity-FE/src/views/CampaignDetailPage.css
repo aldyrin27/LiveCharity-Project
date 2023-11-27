@@ -1,0 +1,41 @@
+/* body {
+    background-color: #EAF3F9 !important; 
+} */
+
+.campaign-container {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #eaf3f9 !important;
+}
+
+.detail-right {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 2px solid rgba(143, 143, 143, 0.36);
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgb(198, 198, 198);
+  height: 20em;
+}
+
+.image-campaign img {
+  width: 50em;
+  height: auto;
+  border-radius: 5px;
+}
+
+.image-campaign {
+  text-align: center;
+}
+
+.description-campaign {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 2px solid rgba(143, 143, 143, 0.36);
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgb(198, 198, 198);
+}
+
+.donator-campaign {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 2px solid rgba(143, 143, 143, 0.36);
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgb(198, 198, 198);
+}

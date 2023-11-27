@@ -1,0 +1,46 @@
+.livestream-container {
+  display: flex;
+  flex-direction: column;
+  height: 90vh;
+}
+
+.livestream-layout {
+  display: grid;
+  grid-template-columns: 9fr 3fr;
+  flex-grow: 1;
+}
+
+.gift-button {
+  position: absolute;
+  z-index: 9999;
+  right: 30px;
+  top: 80px;
+  color: #fff;
+  cursor: pointer;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gift-button:hover {
+  transform: scale(1.1);
+  color: rgb(199, 199, 33);
+}
+
+.funds-owner {
+  position: absolute;
+  z-index: 9999;
+}
+
+.funds-viewer {
+  position: absolute;
+  z-index: 9999;
+  right: 80px;
+  top: 90px;
+}
+
+.funds-owner p, .funds-viewer p {
+  color: #fff;
+  margin: 0;
+}

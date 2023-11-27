@@ -1,0 +1,8 @@
+.footer-blue {
+    background-color:   #0B5ED7; /* Change to your desired shade of blue */
+    color: #ffffff; /* Set text color to contrast with the background */
+    /* position: fixed; */
+    bottom: 0;
+    width: 100%;
+    /* padding: 10px; */
+  }
