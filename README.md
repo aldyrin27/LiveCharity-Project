@@ -4,6 +4,6 @@
 
 ```sh
 Landing Page
-![Landing](./ScreenShot/Landing.pgn)
+![Landing](./ScreenShot/Landing.png)
 ```
 
